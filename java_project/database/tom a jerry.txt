@@ -1,0 +1,8 @@
+ID: 2 
+Typ: Anime 
+Nazev: Tom a Jerry
+Reziser: Tex Avery
+Rok: 1940
+Doporuceny vek: 5
+Ucinkujici: William Hanna, Joseph Barbera,
+Hodnoceni: 

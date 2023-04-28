@@ -1,0 +1,9 @@
+ID: 1 
+Typ: Anime 
+Nazev: Avatar
+Reziser: James Cameron
+Rok: 2009
+Doporuceny vek: 15
+Ucinkujici: Sam Worthington, Zoe Saldana, Stephen Lang,
+Hodnoceni: 
+9 - dobrej film

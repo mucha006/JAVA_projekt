@@ -1,0 +1,7 @@
+ID: 1 
+Typ: Film 
+Nazev: Pan prstenu
+Reziser: Peter Jackson
+Rok: 2001
+Ucinkujici: Elijah Wood, Ian McKellen, Noel Appleby, Viggo Mortensen,
+Hodnoceni: 

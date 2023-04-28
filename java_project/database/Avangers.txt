@@ -1,0 +1,9 @@
+ID: 2 
+Typ: Film 
+Nazev: Avangers
+Reziser: Joss Whedon
+Rok: 2012
+Ucinkujici: Jeremy Renner, Scarlett Johansson, Chris Evans
+Hodnoceni: 
+3 - dobry
+2 - uslo to
